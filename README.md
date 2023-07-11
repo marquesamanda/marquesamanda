@@ -44,4 +44,4 @@ I'm graduated in Design and Analysis and Systems Development.
 <a href="https://behance.net/marquesamanda"><img align="center" alt="behance" src="https://img.shields.io/badge/Behance-0054F7?style=for-the-badge&logo=behance&logoColor=white" style="border-radius: 5px;"></a>
 <a href="https://instagram.com/srtamandie"><img align="center" alt="instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" style="border-radius: 5px;"></a>
 
-![Snake animation](https://github.com/marquesamanda/marquesamanda/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/marquesamanda/blob/output/github-contribution-grid-snake.svg)
