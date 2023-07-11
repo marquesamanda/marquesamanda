@@ -1,14 +1,15 @@
 <p align="center">
   <img src="header.svg" />
 </p>
-
 ### ✌🏻 About me
 
 I'm graduated in Design and Analysis and Systems Development.
 
-- 🖋️ **Designer** since 2018
-- 💻 **Software developer** since 2020
+#### My current tools are...
+- 🖋️ **Designer** since 2018, using Adobe CC
+- 💻 **Font-end Developer** since 2020
 - 📱 **Mobile developer** since 2023
+- 📲 **UI Designer** since 2023 with Figma
 
 ### 🚀 Skills
 
